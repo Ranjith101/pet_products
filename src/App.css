@@ -15,3 +15,18 @@
   border-radius: 8px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
 }
+
+body{
+  background-image: url('./assets/2.webp');
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+
+#root{
+ margin-right: 40%; 
+}
